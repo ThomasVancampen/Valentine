@@ -84,6 +84,12 @@ button {
     padding: 20px;
 }
 
+#noButton {
+    position: absolute ;
+    left: 90%;
+    top: 90%;
+}
+
 #sure-gif {
     z-index: 11;
     display: none;
